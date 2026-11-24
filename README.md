@@ -6,8 +6,8 @@ TEOLOGOS é um app de perguntas e respostas sobre teologia. Você conversa com a
 
 Personagens disponíveis:
 - **São Tomás de Aquino** — respostas com base na Suma Teológica e na Suma contra os Gentios
-- **Santo Agostinho** — em construção
-- **Catecismo da Igreja Católica** — em construção
+- **Santo Agostinho** — respostas com base em fichas sobre sua vida e obra
+- **Padre / Catecismo da Igreja Católica** — respostas com base no Catecismo e na Bíblia
 
 O app está em beta e aberto para cadastro.
 
