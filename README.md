@@ -1,5 +1,3 @@
-# TEOLOGOS
-
 ![TEOLOGOS](assets/banner.jpg)
 
 App: https://teologos.streamlit.app
