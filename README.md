@@ -1,5 +1,7 @@
 # TEOLOGOS
 
+![Tela de login do TEOLOGOS](assets/login.jpg)
+
 App: https://teologos.streamlit.app
 
 TEOLOGOS é um sistema de perguntas e respostas teológicas baseado em RAG (geração aumentada por recuperação). Cada personagem responde apenas com os textos recuperados de sua própria base documental e cita a referência exata usada, por exemplo *ST I, q.2, a.3* no caso de São Tomás ou o parágrafo correspondente do Catecismo. Quando o tema não é tratado diretamente nas fontes, a resposta diz isso e, se possível, aplica os princípios do autor ao caso, deixando claro que é uma aplicação e não uma citação.
