@@ -1,6 +1,6 @@
 # TEOLOGOS
 
-![Tela de login do TEOLOGOS](assets/login.jpg)
+![TEOLOGOS](assets/banner.jpg)
 
 App: https://teologos.streamlit.app
 
